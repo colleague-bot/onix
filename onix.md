@@ -1,14 +1,14 @@
-<h1>This is the Onix</h1>
+# This is the Onix
 <img src="onix.png" style="height:20%">
 
-<h2>Office Bot Colleague</h2>
+## Office Bot Colleague
 
-<h3>Goal:</h3>
+### Goal:
 Build the best under 3k$ robot, ever!. <u>The best</u>.
 
-<h3>Deadline:</h3>
+### Deadline:
 Jan 4th, 2021
 
-<h3>Stream</h3>
+### Stream
 <a href="https://dashboard.twitch.tv/u/onrobotstudio">twitch</a>
 
