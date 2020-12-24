@@ -12,3 +12,9 @@ Jan 4th, 2021
 ### Stream
 <a href="https://dashboard.twitch.tv/u/onrobotstudio">twitch</a>
 
+### Process
+Organically evolve Onix bot using a bottom-up + top-down dual approach. The design will get closer to the actual bot and the actual bot will incrementally evolve into the design.
+
+### Progress
+<img src="pics/progress1.jpg" style="height:10%">
+
